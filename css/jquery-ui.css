@@ -33,7 +33,7 @@
     clear: both;
 }
 .ui-helper-clearfix {
-    min-height: 0; /* support: IE7 */
+    min-height: 0; 
 }
 .ui-helper-zfix {
     width: 100%;
@@ -42,7 +42,7 @@
     left: 0;
     position: absolute;
     opacity: 0;
-    filter:Alpha(Opacity=0); /* support: IE8 */
+    filter:Alpha(Opacity=0);
 }
 
 .ui-front {
@@ -86,7 +86,7 @@
     position: relative;
     margin: 2px 0 0 0;
     padding: .5em .5em .5em .7em;
-    min-height: 0; /* support: IE7 */
+    min-height: 0; 
     font-size: 100%;
 }
 .ui-accordion .ui-accordion-icons {
